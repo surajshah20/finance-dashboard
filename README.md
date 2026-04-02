@@ -29,7 +29,7 @@ ledger-dashboard/
 3. No dependencies to install, no build tools required
 
 ```bash
-git clone https://github.com/your-username/ledger-dashboard.git
+git clone https://github.com/surajshah20/finance-dashboard
 cd ledger-dashboard
 open index.html   # or just double-click the file
 ```
