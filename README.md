@@ -6,7 +6,7 @@ A clean, interactive personal finance dashboard built with **HTML, CSS, and Vani
 
 ## Live Demo
 
-> Deploy to [Netlify](https://netlify.com), or [GitHub Pages]([https://pages.github.co](https://github.com/surajshah20/finance-dashboard))
+> Deploy to [Netlify](https://netlify.com), or [GitHub Pages]([https://pages.github.co](https://github.com/surajshah20/finance-dashboard)
 
 ---
 
